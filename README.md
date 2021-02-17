@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A collection of Matlab functions for the Classical Lamination Theory
-(ClT). The functions are part of a Master course on Composites at the
+(CLT). The functions are part of a Master course on Composites at the
 University of Twente.
 
 For background information on the CLT, the reader is kindly invited to
