@@ -22,7 +22,7 @@ You can clone the repository to your folder of choice using
 [git](https://git-scm.com/downloads):
 
 ```
-git clone https://github.com/wjbg/m_CLT.git
+git clone https://github.com/wjbg/m.CLT.git
 ```
 
 Alternatively, you can also download this repository as zip file by
