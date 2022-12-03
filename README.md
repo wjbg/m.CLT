@@ -5,7 +5,7 @@
 A collection of Matlab functions for the Classical Lamination Theory
 (CLT). The functions are part of a Master course on Composites at the
 University of Twente. Check out [py.CLT](https://github.com/wjbg/py.CLT)
-for a Matlab implementation.
+for a Python implementation.
 
 For background information on the CLT, the reader is kindly invited to
 join the course :smirk:. If that is not an option, the following
